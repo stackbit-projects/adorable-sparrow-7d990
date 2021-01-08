@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Copy of of Best Books Bookstore (1).png
+    background_image: images/obf1.png
     background_image_opacity: 80
     content: >-
       # Create your own library with one click.
