@@ -9,7 +9,7 @@ sections:
     content: |
       # Create Your Own Library With One Click.
     actions:
-      - title: See all items
+      - title: Shop Now
         url: /store
         arrow: true
         style: primary
