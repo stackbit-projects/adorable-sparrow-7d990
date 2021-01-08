@@ -41,8 +41,8 @@ sections:
           name: Major Payne
           location: 'VA, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          I recommend OnlyBookFans to anyone that enjoys reading and is looking
+          to better themselves... plus amazing deals!
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
