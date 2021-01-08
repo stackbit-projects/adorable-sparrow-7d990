@@ -32,7 +32,7 @@ sections:
     section_id: testimonials_section
     testimonials:
       - author:
-          name: Tony EVANS
+          name: Tony EVANSJohn Dope
           location: 'Colorado, USA'
         text: >-
           Honestly one of the best places to find books that will help you grow
