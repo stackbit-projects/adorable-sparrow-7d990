@@ -7,7 +7,7 @@ sections:
     background_image: images/Copy of of Best Books Bookstore (1).png
     background_image_opacity: 80
     content: >-
-      # Real, beautiful plants right to your door
+      # Create your own library with one click.
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
