@@ -4,15 +4,12 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/Copy of of Best Books Bookstore 2.png
     background_image_opacity: 80
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: |
+      # Create Your Own Library With One Click.
     actions:
-      - title: See all items
+      - title: Shop Now
         url: /store
         arrow: true
         style: primary
@@ -35,23 +32,22 @@ sections:
     section_id: testimonials_section
     testimonials:
       - author:
-          name: John Dope
+          name: Tony EVANS
           location: 'Colorado, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          Honestly one of the best places to find books that will help you grow
+          your business!
       - author:
-          name: Major Payne
+          name: Sonia howard
           location: 'VA, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          I recommend OnlyBookFans to anyone that enjoys reading and is looking
+          to better themselves... plus amazing deals!
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
+    title: 'Click, Download, Read'
+    subtitle: from $9.99
+    image: images/pexels-photo-4855378.jpeg
     cta:
       title: Discover
       url: /store

@@ -1,12 +1,12 @@
 ---
 id: '1'
-price: '49.40'
-title: Nulla suscipit
+price: '9.99'
+title: Digital Marketing Bundle
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/Black and Yellow Green Digital Photo Collage (1).png
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
