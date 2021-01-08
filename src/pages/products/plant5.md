@@ -5,7 +5,7 @@ title: Vestibulum eget
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/plant5.jpg
+default_thumbnail_image: images/Black and Yellow Green Digital Photo Collage (4).png
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
