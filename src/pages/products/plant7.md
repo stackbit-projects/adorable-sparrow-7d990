@@ -1,7 +1,7 @@
 ---
 id: '7'
 price: '18.90'
-title: FITNESS Bundle
+title: FIT Bundle
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/Black and Yellow Green Digital Photo Collage (6).png
 default_original_image: images/plant7-lg.jpg
