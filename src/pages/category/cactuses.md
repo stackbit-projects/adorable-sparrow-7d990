@@ -1,5 +1,5 @@
 ---
-title: ''
+title: sds
 order: 2
 section: Store
 template: category
