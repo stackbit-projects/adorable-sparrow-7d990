@@ -38,7 +38,7 @@ sections:
           Honestly one of the best places to find books that will help you grow
           your business!
       - author:
-          name: Major Payne
+          name: Sonia howard
           location: 'VA, USA'
         text: >-
           I recommend OnlyBookFans to anyone that enjoys reading and is looking
