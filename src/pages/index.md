@@ -6,11 +6,8 @@ sections:
     section_id: hero_section
     background_image: images/Copy of of Best Books Bookstore 2.png
     background_image_opacity: 80
-    content: >-
-      # Create your own library with one click.
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: |
+      # Create Your Own Library With One Click.
     actions:
       - title: See all items
         url: /store
