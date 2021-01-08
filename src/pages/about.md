@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/obflogo1.png
+    background_image: images/Copy of of Best Books Bookstore 2.png
     headline: We are Planty
     subtitle: >-
       Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
