@@ -45,7 +45,7 @@ sections:
           to better themselves... plus amazing deals!
   - type: promotion_section
     section_id: promotion_section
-    title: Learn on the Go
+    title: 'Click, Download, Read'
     subtitle: from $9.99
     image: images/pexels-photo-4855378.jpeg
     cta:
