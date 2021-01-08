@@ -1,7 +1,7 @@
 ---
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: Cooking Book Bundle
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/Black and Yellow Green Digital Photo Collage (3).png
 default_original_image: images/plant3-lg.jpg
