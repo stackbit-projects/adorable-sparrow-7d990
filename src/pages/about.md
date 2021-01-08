@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
+    background_image: images/obflogo1.png
     headline: We are Planty
     subtitle: >-
       Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
