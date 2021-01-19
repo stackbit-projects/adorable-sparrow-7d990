@@ -17,7 +17,7 @@ sections:
       - title: WOULD YOU LIKE TO SELL YOUR EBOOKS WITH US?
         description: |
           We'd love to hear from you!
-        image: images/2_720x.jpg
+        image: images/Untitled_design_720x.jpg
       - title: SAY HELLO
         description: >
           Join us on our social platforms and engage with our content.  Make
