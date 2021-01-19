@@ -46,7 +46,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: 'Click, Download, Read'
-    subtitle: from $9.99
+    subtitle: from $1.99
     image: images/pexels-photo-4855378.jpeg
     cta:
       title: Discover
