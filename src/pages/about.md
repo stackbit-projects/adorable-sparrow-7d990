@@ -18,7 +18,7 @@ sections:
         description: |
           the ideal reading and publishing companion for readers and authors.
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: WOULD YOU LIKE TO SELL YOUR EBOOKS WITH US?
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
