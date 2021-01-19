@@ -3,7 +3,7 @@ id: '3'
 price: '9.99'
 title: Cooking Book Bundle
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/ecover-400.jpg
+default_thumbnail_image: images/flat1.png
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
