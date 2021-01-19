@@ -81,7 +81,7 @@ sections:
 
           Only regular priced items may be refunded, unfortunately sale items
           cannot be refunded.
-      - question: How do you handle sensitive customer information?
+      - question: Terms of Service
         answer: >+
           [](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f\&rid=giphy.gif)Terms
           of Service
