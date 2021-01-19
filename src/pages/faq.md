@@ -120,70 +120,87 @@ sections:
           changes constitutes acceptance of those changes.
       - question: Refunds
         answer: >
-          Refunds
+          Privacy Policy
 
 
-          non-refundable items:
-
-
-          \- Gift cards 
-
-
-          \- Downloadable software products 
+          This Privacy Policy describes how onlybookfans.com (the “Site” or
+          “we”) collects, uses, and discloses your Personal Information when you
+          visit or make a purchase from the Site.
 
 
 
 
-          To complete your return, we require a receipt or proof of purchase. 
+          Collecting Personal Information
 
 
-          There are certain situations where only partial refunds are granted
-          (if applicable) 
-
-
-
-
-          Refunds (if applicable) 
-
-
-          Once your refund is requested , we will send you an email to notify
-          you that we have received your request. We will also notify you of the
-          approval or rejection of your refund. 
-
-
-          If you are approved, then your refund will be processed, and a credit
-          will automatically be applied to your credit card or original method
-          of payment, within a certain amount of days. 
+          When you visit the Site, we collect certain information about your
+          device, your interaction with the Site, and information necessary to
+          process your purchases. We may also collect additional information if
+          you contact us for customer support. In this Privacy Policy, we refer
+          to any information that can uniquely identify an individual (including
+          the information below) as “Personal Information”. See the list below
+          for more information about what Personal Information we collect and
+          why.
 
 
 
 
-          Late or missing refunds (if applicable) 
-
-
-          If you haven’t received a refund yet, first check your bank account
-          again. 
-
-
-          Then contact your credit card company, it may take some time before
-          your refund is officially posted. 
-
-
-          Next contact your bank. There is often some processing time before a
-          refund is posted. 
-
-
-          If you’ve done all of this and you still have not received your refund
-          yet, please contact us at support@onlybookfans.com. 
+          Device information
 
 
 
 
-          Sale items (if applicable) 
+          Examples of Personal Information collected: version of web browser, IP
+          address, time zone, cookie information, what sites or products you
+          view, search terms, and how you interact with the Site.
 
 
-          Only regular priced items may be refunded, unfortunately sale items
-          cannot be refunded. 
+          Purpose of collection: to load the Site accurately for you, and to
+          perform analytics on Site usage to optimize our Site.
+
+
+          Source of collection: Collected automatically when you access our Site
+          using cookies, log files, web beacons, tags, or pixels
+
+
+          Disclosure for a business purpose: shared with our processor Shopify 
+
+
+          Order information
+
+
+
+
+          Examples of Personal Information collected: name, billing address,
+          shipping address, payment information (including credit card numbers ,
+          email address, and phone number.
+
+
+          Purpose of collection: to provide products or services to you to
+          fulfill our contract, to process your payment information, arrange for
+          shipping, and provide you with invoices and/or order confirmations,
+          communicate with you, screen our orders for potential risk or fraud,
+          and when in line with the preferences you have shared with us, provide
+          you with information or advertising relating to our products or
+          services.
+
+
+          Source of collection: collected from you.
+
+
+          Disclosure for a business purpose: shared with our processor Shopify
+
+
+          Examples of Personal Information collected:
+
+
+          Purpose of collection: 
+
+
+          Source of collection: 
+
+
+          Disclosure for a business purpose: 
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
