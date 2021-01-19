@@ -18,7 +18,7 @@ sections:
         description: |
           We'd love to hear from you!
         image: images/nan_talk.jpg
-      - title: WOULD YOU LIKE TO SELL YOUR EBOOKS WITH US?
+      - title: SAY HELLO
         description: |
           We'd love to hear from you!
         image: images/2_720x.png
