@@ -52,7 +52,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: 'Phoenix, AZ, US'
-    phone: +1-202-555-0112
+    phone: ''
     email: support@onlybookfans.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
