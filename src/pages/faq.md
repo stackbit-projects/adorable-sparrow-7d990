@@ -123,7 +123,7 @@ sections:
           questions, or if you would like to make a complaint, please contact us
           by e-mail at support@onlybookfans.com
   - type: contact_section
-    image: images/pexels-photo-4855321.jpeg
+    image: images/pexels-photo-4855378.jpeg
     section_id: contact_section
     address: United States
     phone: ''
