@@ -36,18 +36,71 @@ sections:
           handling process. Or, if you’re using Snipcart, just refer to [our ToS
           and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
-        answer: >-
-          Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-          designer a couple of months ago. <br /><br /> Q: Why did you build a
-          theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
-          opening up the JAMstack to more developers. Plus, we trust these
-          folks. [Read more about Stackbit](http://bit.ly/2YAvGix). <br /><br />
-          Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-          small, bootstrapped team of eight human beings. Michael might be a
-          robot, though. <br /><br /> Q: Why is Snipcart based in Québec City?
-          <br /> A: Have you been here? It’s beaaautiful! <br /><br /> Q: What’s
-          the meaning of life? <br /> A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough.
+        answer: >
+          Refunds
+
+
+          non-refundable items:
+
+
+          \- Gift cards 
+
+
+          \- Downloadable software products 
+
+
+
+
+          To complete your return, we require a receipt or proof of purchase. 
+
+
+          There are certain situations where only partial refunds are granted
+          (if applicable) 
+
+
+
+
+          Refunds (if applicable) 
+
+
+          Once your refund is requested , we will send you an email to notify
+          you that we have received your request. We will also notify you of the
+          approval or rejection of your refund. 
+
+
+          If you are approved, then your refund will be processed, and a credit
+          will automatically be applied to your credit card or original method
+          of payment, within a certain amount of days. 
+
+
+
+
+          Late or missing refunds (if applicable) 
+
+
+          If you haven’t received a refund yet, first check your bank account
+          again. 
+
+
+          Then contact your credit card company, it may take some time before
+          your refund is officially posted. 
+
+
+          Next contact your bank. There is often some processing time before a
+          refund is posted. 
+
+
+          If you’ve done all of this and you still have not received your refund
+          yet, please contact us at support@onlybookfans.com. 
+
+
+
+
+          Sale items (if applicable) 
+
+
+          Only regular priced items may be refunded, unfortunately sale items
+          cannot be refunded. 
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
