@@ -6,13 +6,11 @@ sections:
     section_id: header_section
     background_image: images/leaf.svg
     headline: We are OnlyBookFans
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      OnlyBookFans is an eBook Marketplace to buy and sell eBooks with other
+      members. The marketplace provides a platform for different categories of
+      publishers to monetize their works without being subjected to the problems
+      that most authors go through to get value for their books.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
