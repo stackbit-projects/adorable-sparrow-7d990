@@ -19,8 +19,9 @@ sections:
           We'd love to hear from you!
         image: images/nan_talk.jpg
       - title: SAY HELLO
-        description: |
-          We'd love to hear from you!
+        description: >
+          Join us on our social platforms and engage with our content.  Make
+          sure to tag us and share your experience!
         image: images/2_720x.png
   - type: promotion_section
     section_id: promotion_section
