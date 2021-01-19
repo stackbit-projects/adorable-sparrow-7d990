@@ -13,14 +13,16 @@ sections:
     section_id: faq_section
     questions:
       - question: HOW IT WORKS
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+        answer: >
+          *   When you purchase an eBook we will email you a link to download
+          it. Simply click on the link and the download process will start
+          automatically.
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+
+
+          *   All the eBooks are delivered in PDF format and you can read them
+          either on the computer, on a tablet, or using one of the reading apps
+          on your phone.
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
