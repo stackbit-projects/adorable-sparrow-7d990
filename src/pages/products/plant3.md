@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '9.99'
+price: '1.99'
 title: Cooking Book Bundle
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/flat1.png
