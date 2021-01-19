@@ -22,7 +22,7 @@ sections:
         description: >
           Join us on our social platforms and engage with our content.  Make
           sure to tag us and share your experience!
-        image: images/2_720x.png
+        image: images/Untitled_design_720x.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
