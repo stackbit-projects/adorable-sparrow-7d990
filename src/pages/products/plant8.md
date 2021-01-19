@@ -1,6 +1,6 @@
 ---
 id: '8'
-price: '50.00'
+price: '1.99'
 title: Fusce sed
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/parallel-comet.jpg
