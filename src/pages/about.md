@@ -21,7 +21,7 @@ sections:
       - title: WOULD YOU LIKE TO SELL YOUR EBOOKS WITH US?
         description: |
           We'd love to hear from you!
-        image: images/team.jpg
+        image: images/2_720x.png
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
