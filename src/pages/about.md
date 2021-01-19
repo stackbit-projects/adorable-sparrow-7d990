@@ -23,7 +23,7 @@ sections:
       - title: SAY HELLO
         description: >
           Join us on our social platforms and engage with our content.  Make
-          sure to tag us and share your experience!
+          sure to tag us and share your experience! @onlybookfans
         image: images/Untitled_design_720x.jpg
   - type: promotion_section
     section_id: promotion_section
