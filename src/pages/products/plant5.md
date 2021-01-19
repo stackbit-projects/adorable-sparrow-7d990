@@ -5,7 +5,7 @@ title: Entrepreneur  Bundle
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/blue-sloth.jpg
+default_thumbnail_image: images/ebook.png
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
