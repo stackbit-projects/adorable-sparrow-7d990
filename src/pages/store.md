@@ -16,7 +16,7 @@ sections:
     section_id: promotion_section
     title: 'Click, Download, Read'
     subtitle: from $1.99
-    image: images/promo.jpg
+    image: images/pexels-photo-4855378.jpeg
     cta:
       title: Discover
       url: /store
