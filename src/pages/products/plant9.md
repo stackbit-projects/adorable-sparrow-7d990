@@ -1,6 +1,6 @@
 ---
 id: '9'
-price: '400.00'
+price: '1.99'
 title: Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/happy-pineapple.png
