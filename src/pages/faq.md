@@ -23,7 +23,7 @@ sections:
           *   All the eBooks are delivered in PDF format and you can read them
           either on the computer, on a tablet, or using one of the reading apps
           on your phone.
-      - question: Terms of Service
+      - question: Refunds
         answer: >
           *   OVERVIEW 
 
