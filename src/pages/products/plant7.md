@@ -3,7 +3,7 @@ id: '7'
 price: '1.99'
 title: Fitness Bundle
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/51dZl1OhinL._SX260_.jpg
+default_thumbnail_image: images/happy-pineapple.png
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: src/pages/category/bigplants.md
