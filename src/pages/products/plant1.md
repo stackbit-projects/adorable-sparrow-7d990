@@ -6,7 +6,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/Social Media Marketing Revolution E-Cover Design.jpg
+default_thumbnail_image: images/tiktok-marketing-ebook-and-videos-mrr.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
