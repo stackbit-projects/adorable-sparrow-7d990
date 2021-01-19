@@ -1,6 +1,6 @@
 ---
 id: '5'
-price: '9.99'
+price: '1.99'
 title: Entrepreneur  Bundle
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
