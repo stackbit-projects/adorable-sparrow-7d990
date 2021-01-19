@@ -16,7 +16,7 @@ sections:
     bulletpoints:
       - title: WOULD YOU LIKE TO SELL YOUR EBOOKS WITH US?
         description: |
-          the ideal reading and publishing companion for readers and authors.
+          We'd love to hear from you!
         image: images/nan_talk.jpg
       - title: WOULD YOU LIKE TO SELL YOUR EBOOKS WITH US?
         description: |
