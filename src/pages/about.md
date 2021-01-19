@@ -14,7 +14,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: WOULD YOU LIKE TO SELL YOUR EBOOKS WITH US?
         description: |
           the ideal reading and publishing companion for readers and authors.
         image: images/nan_talk.jpg
