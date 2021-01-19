@@ -54,6 +54,6 @@ sections:
     address: United States
     phone: ''
     email: support@onlybookfans.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/'
 template: advanced
 ---
