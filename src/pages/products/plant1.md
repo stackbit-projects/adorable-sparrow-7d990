@@ -1,7 +1,7 @@
 ---
 id: '1'
 price: '9.99'
-title: Digital Marketing Bundle
+title: Making Profits Through Real Estate For Newbies
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
