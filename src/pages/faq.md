@@ -51,7 +51,7 @@ sections:
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
-    address: 'Phoenix, AZ, US'
+    address: United States
     phone: ''
     email: support@onlybookfans.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
