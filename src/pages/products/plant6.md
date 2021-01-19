@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '100.00'
+price: '1.99'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/51uWkoxnXaL._SX260_.jpg
