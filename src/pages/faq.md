@@ -119,17 +119,10 @@ sections:
           continued use of or access to the website following the posting of any
           changes constitutes acceptance of those changes.
       - question: Contact
-        answer: >+
-          Privacy Policy
-
-
-          This Privacy Policy describes how onlybookfans.com (the “Site” or
-          “we”) collects, uses, and discloses your Personal Information when you
-          visit or make a purchase from the Site.
-
-
-          Collecting Personal Information
-
+        answer: >
+          For more information about our privacy practices, if you have
+          questions, or if you would like to make a complaint, please contact us
+          by e-mail at support@onlybookfans.com
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
