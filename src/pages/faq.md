@@ -23,7 +23,7 @@ sections:
           *   All the eBooks are delivered in PDF format and you can read them
           either on the computer, on a tablet, or using one of the reading apps
           on your phone.
-      - question: How do refunds and returns work?
+      - question: Terms of Service
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
