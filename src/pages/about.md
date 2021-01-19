@@ -8,9 +8,11 @@ sections:
     headline: We are OnlyBookFans
     subtitle: >
       OnlyBookFans is an eBook Marketplace to buy and sell eBooks with other
-      members. The marketplace provides a platform for different categories of
-      publishers to monetize their works without being subjected to the problems
-      that most authors go through to get value for their books.
+      members. The marketplace is designed for published, self-published, and
+      unpublished authors, allowing them to earn up to 100% profits on their
+      works. OnlyBookFans creates a win-win situation for every stakeholder by
+      negotiating the best price for buyers while maximizing the return for
+      sellers.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
