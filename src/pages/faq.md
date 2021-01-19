@@ -118,7 +118,7 @@ sections:
           your responsibility to check this page periodically for changes. Your
           continued use of or access to the website following the posting of any
           changes constitutes acceptance of those changes.
-      - question: Refunds
+      - question: Contact
         answer: >
           Privacy Policy
 
