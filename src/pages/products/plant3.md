@@ -3,7 +3,7 @@ id: '3'
 price: '1.99'
 title: Cooking Book Bundle
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/flat1.png
+default_thumbnail_image: images/social-media-marketing-made-simple-ebook-and-videos-mrr.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
