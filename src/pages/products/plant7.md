@@ -1,6 +1,6 @@
 ---
 id: '7'
-price: '9.99'
+price: '1.99'
 title: Fitness Bundle
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/report.jpg
