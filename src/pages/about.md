@@ -27,7 +27,7 @@ sections:
         image: images/Untitled_design_720x.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: 'Click, Download, Read'
     subtitle: from $149.99
     image: images/promo.jpg
     cta:
