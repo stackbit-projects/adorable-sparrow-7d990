@@ -4,7 +4,7 @@ price: '1.99'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/51uWkoxnXaL._SX260_.jpg
-default_original_image: images/magenta-bee.jpg
+default_original_image: images/large_12388_01.jpg
 order: 6
 category: src/pages/category/bigplants.md
 section: Store
