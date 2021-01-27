@@ -4,7 +4,7 @@ price: '1.99'
 title: Integer port
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/important-cabbage.jpg
-default_original_image: images/51dZl1OhinL._SX260_.jpg
+default_original_image: images/51dZl1OhinL._SY445_SX342_QL70_ML2_.jpg
 order: 2
 category: src/pages/category/cactuses.md
 section: Store
