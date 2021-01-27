@@ -6,7 +6,7 @@ description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
 default_thumbnail_image: images/23103-1.jpg
-default_original_image: images/23103-1.jpg
+default_original_image: images/influencer-marketing-7.jpg
 featured: true
 order: 5
 category: src/pages/category/bigplants.md
