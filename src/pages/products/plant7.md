@@ -4,7 +4,7 @@ price: '1.99'
 title: Fitness Bundle
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/online-viral-marketing-secrets-ebook-and-videos-mrr-cover.jpg
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/online-viral-marketing-secrets-ebook-and-videos-mrr-cover.jpg
 order: 7
 category: src/pages/category/bigplants.md
 section: Store
