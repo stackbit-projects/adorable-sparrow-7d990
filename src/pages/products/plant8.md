@@ -4,7 +4,7 @@ price: '1.99'
 title: Fusce sed
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/parallel-comet.jpg
-default_original_image: images/plant8-lg.jpg
+default_original_image: images/parallel-comet.jpg
 order: 8
 category: src/pages/category/summer.md
 section: Store
