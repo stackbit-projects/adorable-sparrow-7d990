@@ -1,7 +1,7 @@
 ---
 id: '1'
 price: '1.99'
-title: Making Profits Through Real Estate For Newbies
+title: TikTok Marketing
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
