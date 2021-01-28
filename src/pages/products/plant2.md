@@ -2,7 +2,7 @@
 id: '2'
 price: '1.99'
 title: Facebook Messenger Bot Marketing Unleashed
-description: Suspendisse efficitur eget erat sit amet efficitur.
+description: "Facebook Messenger has revolutionized how marketers can access and grow their audience.\_Whatever your installation is, Facebook Messenger is designed in such a way that it can be automated."
 default_thumbnail_image: images/important-cabbage.jpg
 default_original_image: images/51dZl1OhinL._SY445_SX342_QL70_ML2_.jpg
 order: 2
