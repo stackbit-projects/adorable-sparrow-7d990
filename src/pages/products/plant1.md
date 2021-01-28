@@ -2,7 +2,7 @@
 id: '1'
 price: '1.99'
 title: TikTok Marketing
-description: "TikTok social media platform has seen explosive growth over the last two years.It now has 500 million users that are desperate for fun and exciting content and this is a massive opportunity for you to promote your business.To be successful with TikTok marketing you need to know how the platform works and how the users interact with each other.\_ \_ \_\_With this ebook you will learn\_everything that you need to know to use the TikTok platform to market your business successfully."
+description: "TikTok social media platform has seen explosive growth over the last two years.It now has 500 million users that are desperate for fun and exciting content and this is a massive opportunity for you to promote your business.To be successful with TikTok marketing you need to know how the platform works and how the users interact with each other.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ With this ebook you will learn\_everything that you need to know to use the TikTok platform to market your business successfully."
 default_thumbnail_image: images/tiktok-marketing-ebook-and-videos-mrr.jpg
 default_original_image: images/tiktok-marketing-ebook-and-videos-mrr.jpg
 featured: true
