@@ -1,7 +1,7 @@
 ---
 id: '3'
 price: '1.99'
-title: Cooking Book Bundle
+title: Email Monetizer
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/wonderful-olive.jpg
 default_original_image: images/wonderful-olive.jpg
