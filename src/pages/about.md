@@ -33,6 +33,6 @@ sections:
     cta:
       title: Discover
       url: /store
-      style: secondary
+      style: link
 template: advanced
 ---
