@@ -1,7 +1,7 @@
 ---
 id: '6'
 price: '1.99'
-title: Donec finibus
+title: The Internet Marketer's Handbook
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/51uWkoxnXaL._SX260_.jpg
 default_original_image: images/large_12388_01.jpg
