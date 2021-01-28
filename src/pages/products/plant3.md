@@ -2,7 +2,7 @@
 id: '3'
 price: '1.99'
 title: Email Monetizer
-description: "Turning your email list into a\_passive income money maker\_isn’t as difficult, or time consuming as you may think.Every day, thousands of online marketers are transforming their mailing lists into powerful cash funnels, and quite often, they don’t even have their own product line!This special report will make it easy for you to start making money with your subscriber base even if you’re just starting out.It will show you how you can join the ranks of successful list builders quickly and easily, while increasing engagement, building your tribe and positioning yourself as a thought leader in your market."
+description: "Turning your email list into a\_passive income money maker\_isn’t as difficult, or time consuming as you may think.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Every day, thousands of online marketers are transforming their mailing lists into powerful cash funnels, and quite often, they don’t even have their own product line! This special report will make it easy for you to start making money with your subscriber base even if you’re just starting out.\_ \_ \_ \_ \_ \_It will show you how you can join the ranks of successful list builders quickly and easily, while increasing engagement, building your tribe and positioning yourself as a thought leader in your market."
 default_thumbnail_image: images/wonderful-olive.jpg
 default_original_image: images/wonderful-olive.jpg
 featured: true
