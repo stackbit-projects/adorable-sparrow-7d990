@@ -2,11 +2,7 @@
 id: '9'
 price: '1.99'
 title: Youtube Authority
-description: >-
-  Discover How to Build Your YouTube Authority with this Comprehensive Guide on
-  Starting and Growing a Successful YouTube Channel. Finally! A Comprehensive
-  Guide on How to Start and Grow a Successful YouTube Channel for your Business
-  or Brand.
+description: "Discover How to Build Your YouTube Authority with this Comprehensive Guide on Starting and Growing a Successful YouTube Channel.\_ \_ \_ \_ \_ \_ \_ \_ Finally! A Comprehensive Guide on How to Start and Grow a Successful YouTube Channel for your Business or Brand."
 default_thumbnail_image: images/happy-pineapple.png
 default_original_image: images/happy-pineapple.png
 featured: true
