@@ -1,7 +1,7 @@
 ---
 id: '5'
 price: '1.99'
-title: Entrepreneur  Bundle
+title: Influencer Marketing
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
