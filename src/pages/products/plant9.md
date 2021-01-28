@@ -1,7 +1,7 @@
 ---
 id: '9'
 price: '1.99'
-title: Fusce sagittis
+title: Youtube Authority
 description: Youtube Authority
 default_thumbnail_image: images/happy-pineapple.png
 default_original_image: images/happy-pineapple.png
