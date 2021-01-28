@@ -2,7 +2,7 @@
 id: '4'
 price: '1.99'
 title: Lead Generation On Demand
-description: Maecenas pretium blandit ex id lobortis.
+description: "It doesn’t matter what kind of business you’re in, if you aren’t able to generate new leads and turn them into paying customers, your company will never succeed.\_You need to be constantly bringing in new customers if you want your business to thrive.Generating more leads is anything but easy and if you don’t have a solid marketing strategy that will drive more traffic to your website, you’ll never be able to generate the leads you need for your business to succeed.\_This comprehensive guide will\_show you how you can create lead generation on demand."
 default_thumbnail_image: images/download.jpg
 default_original_image: images/download.jpg
 order: 4
