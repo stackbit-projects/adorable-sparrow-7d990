@@ -1,7 +1,7 @@
 ---
 id: '7'
 price: '1.99'
-title: Fitness Bundle
+title: Online Viral Marketing Secrets
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/online-viral-marketing-secrets-ebook-and-videos-mrr-cover.jpg
 default_original_image: images/online-viral-marketing-secrets-ebook-and-videos-mrr-cover.jpg
