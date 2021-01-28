@@ -3,7 +3,7 @@ id: '1'
 price: '1.99'
 title: TikTok Marketing
 description: >-
-  The TikTok social media platform has seen explosive growth over the last two
+  TikTok social media platform has seen explosive growth over the last two
   years.It now has 500 million users that are desperate for fun and exciting
   content and this is a massive opportunity for you to promote your business.To
   be successful with TikTok marketing you need to know how the platform works
