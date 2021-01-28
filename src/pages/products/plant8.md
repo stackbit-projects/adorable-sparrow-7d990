@@ -1,7 +1,7 @@
 ---
 id: '8'
 price: '1.99'
-title: Fusce sed
+title: Top Ten Meat Substitutes
 description: >-
   Every year, more people are reconsidering the amount of meat they consume,
   choosing instead to implement healthy meat substitutes into their diets.With
